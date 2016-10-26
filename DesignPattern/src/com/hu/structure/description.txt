@@ -8,7 +8,7 @@
 
 装饰模式（Decorator）
 
-桥模式（Bridge）
+桥梁模式（Bridge）
 
 组合模式（Composite）
 
