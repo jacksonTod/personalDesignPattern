@@ -21,3 +21,5 @@
 迭代器模式（Iterator）
 
 解释器模式（Interpreter）
+
+不变模式(Immutable)
