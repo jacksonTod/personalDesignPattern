@@ -22,3 +22,4 @@
 
 解释器模式（Interpreter）
 
+不变模式(Immutable)
